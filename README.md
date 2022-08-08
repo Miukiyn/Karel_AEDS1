@@ -1,2 +1,4 @@
 # Karel_AEDS1
-este projeto é um estudo da linguagem C++, no qual os alunos usam seus conhecimentos para programar a animação do robô e cumprir seus objetivos
+this project is a study of the C++ language, in which students use their knowledge to program robot animation and fulfill its goals.
+
+To use the code, download the two files from the repository and follow the steps in the first lines of code using the terminal
